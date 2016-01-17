@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "[C28C0DB26]请计算出船的航行速度"
+date:   2016-1-17 14:03:59 +0800
+categories: wizwe
+keywords: wizwe,C28C0DB26
+description: C28C0DB26
+---
+##请计算出船的航行速度：
+
+![wizwe]({{ site.url }}/assets/2016-01-14 160553.jpg)
+
+![wizwe]({{ site.url }}/assets/2016-01-14 160825.jpg)
+
+
+##提醒
+1. wizwe对解题过程无任何限制。
+2. 将答案及解题过程（包含9位题码）发送给Mr.G
+
+##提示
+1. 无
